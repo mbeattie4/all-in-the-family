@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/78bdd9e417a0b221e9b61e51aec38f29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/d7ad96cb9a3eb969324470fa04c2ae2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/9c7efead9e15de7fe7e5a525514eea41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/67c134e45644ef33d236115d580cae3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/c8496628a7556af69ece8bfae7f53ee9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/8a451d38c405a45e0b0787588cb86020/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/b3fe6399778fc8149b177034694cb369/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/a4434d23964213e480d94886b3bd3dda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/1ecb1012d3626a43babbb4c89dc7b4cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/b009686aba1859cc40f118084bb1ae29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/e353066ee3f5e42a082fe94c8bf2efd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/ce4576b865d69d5eecd6674bf52708ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/791645c4439a11e5b297a184fa1d560b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/8dc35b6407118d53f12a9caea257fd91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/dabdb051030f7acf6c137f8431b014ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/62b22da36ff7df9fb0f96a5bbfb6a73c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/09d3424de7272a88cf8b97032fd3430c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/1330f8d1993139be5ba89f461f3d9bcb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/8f40207506407bed47f3d2db6f42bae8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/f8b807a91b242b1a4ee12f6d171b476f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/b95b0ea47456d60be3f6edf40a0e822b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/e3c9f5e5bbe1d8c042fefd358cb13283/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/be795a9b7693b47774609faddc19fe84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/6c214b8bb4572eb39c6a85df6e7149f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/2e7651d3598c0afc9152218765bc3cef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/1b29dd4a41577268a3d60d5f33da004a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/c4ad7f90e442f4f5f112cc95f9778235/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/62b22da36ff7df9fb0f96a5bbfb6a73c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/62b22da36ff7df9fb0f96a5bbfb6a73c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/09d3424de7272a88cf8b97032fd3430c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/09d3424de7272a88cf8b97032fd3430c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/62b22da36ff7df9fb0f96a5bbfb6a73c/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.adam.allinthefamily.MainActivity
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:11:9-18:20
+	android:screenOrientation
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:12:19-55
+	android:name
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.adam.allinthefamily.GameActivity
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:20:9-22:20
+	android:screenOrientation
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:21:19-55
+	android:name
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:20:19-47
+uses-sdk
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/78bdd9e417a0b221e9b61e51aec38f29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/78bdd9e417a0b221e9b61e51aec38f29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/d7ad96cb9a3eb969324470fa04c2ae2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/d7ad96cb9a3eb969324470fa04c2ae2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/9c7efead9e15de7fe7e5a525514eea41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/9c7efead9e15de7fe7e5a525514eea41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/67c134e45644ef33d236115d580cae3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/67c134e45644ef33d236115d580cae3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/c8496628a7556af69ece8bfae7f53ee9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/c8496628a7556af69ece8bfae7f53ee9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/8a451d38c405a45e0b0787588cb86020/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/8a451d38c405a45e0b0787588cb86020/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/b3fe6399778fc8149b177034694cb369/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/b3fe6399778fc8149b177034694cb369/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/a4434d23964213e480d94886b3bd3dda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/a4434d23964213e480d94886b3bd3dda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/1ecb1012d3626a43babbb4c89dc7b4cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/1ecb1012d3626a43babbb4c89dc7b4cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/b009686aba1859cc40f118084bb1ae29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/b009686aba1859cc40f118084bb1ae29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/e353066ee3f5e42a082fe94c8bf2efd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/e353066ee3f5e42a082fe94c8bf2efd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/ce4576b865d69d5eecd6674bf52708ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/ce4576b865d69d5eecd6674bf52708ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/791645c4439a11e5b297a184fa1d560b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/791645c4439a11e5b297a184fa1d560b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/8dc35b6407118d53f12a9caea257fd91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/8dc35b6407118d53f12a9caea257fd91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/dabdb051030f7acf6c137f8431b014ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/dabdb051030f7acf6c137f8431b014ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/62b22da36ff7df9fb0f96a5bbfb6a73c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/62b22da36ff7df9fb0f96a5bbfb6a73c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/09d3424de7272a88cf8b97032fd3430c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/09d3424de7272a88cf8b97032fd3430c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/1330f8d1993139be5ba89f461f3d9bcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/1330f8d1993139be5ba89f461f3d9bcb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/8f40207506407bed47f3d2db6f42bae8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/8f40207506407bed47f3d2db6f42bae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/f8b807a91b242b1a4ee12f6d171b476f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/f8b807a91b242b1a4ee12f6d171b476f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/b95b0ea47456d60be3f6edf40a0e822b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/b95b0ea47456d60be3f6edf40a0e822b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/e3c9f5e5bbe1d8c042fefd358cb13283/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/e3c9f5e5bbe1d8c042fefd358cb13283/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/be795a9b7693b47774609faddc19fe84/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/be795a9b7693b47774609faddc19fe84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/6c214b8bb4572eb39c6a85df6e7149f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/6c214b8bb4572eb39c6a85df6e7149f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/2e7651d3598c0afc9152218765bc3cef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/2e7651d3598c0afc9152218765bc3cef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/1b29dd4a41577268a3d60d5f33da004a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/1b29dd4a41577268a3d60d5f33da004a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/c4ad7f90e442f4f5f112cc95f9778235/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/c4ad7f90e442f4f5f112cc95f9778235/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml

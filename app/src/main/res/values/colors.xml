@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4081</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#3F51B5</color>
+
+    <color name="background_start">@android:color/holo_blue_light</color>
+    <color name="background_end">#0000FF</color>
+
+    <color name="name_entrance_background">@android:color/white</color>
+    <color name="name_entrance_hint_text">#999999</color>
+
+    <color name="button_background_enabled">@android:color/holo_purple</color>
+    <color name="button_background_disabled">@android:color/darker_gray</color>
+    <color name="button_background_pressed">@android:color/holo_blue_dark</color>
+    <color name="button_text">@android:color/white</color>
+
+    <color name="game_name_item_text">@android:color/white</color>
+    <color name="game_name_item_background">@android:color/darker_gray</color>
+
+</resources>
