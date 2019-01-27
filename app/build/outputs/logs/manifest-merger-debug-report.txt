@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-30:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/78bdd9e417a0b221e9b61e51aec38f29/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/d7ad96cb9a3eb969324470fa04c2ae2e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/9c7efead9e15de7fe7e5a525514eea41/AndroidManifest.xml:17:1-22:12
@@ -31,27 +31,27 @@ MERGED from [com.android.support:interpolator:28.0.0] /Users/mbeattie/.gradle/ca
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/2e7651d3598c0afc9152218765bc3cef/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/1b29dd4a41577268a3d60d5f33da004a/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/c4ad7f90e442f4f5f112cc95f9778235/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:4:5-46
 		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-29:12
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-30:12
 		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-29:12
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:1-30:12
 		INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:6:5-27:19
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:6:5-28:19
 MERGED from [com.android.support:support-compat:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/62b22da36ff7df9fb0f96a5bbfb6a73c/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/62b22da36ff7df9fb0f96a5bbfb6a73c/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mbeattie/.gradle/caches/transforms-2/files-2.1/09d3424de7272a88cf8b97032fd3430c/AndroidManifest.xml:22:5-23:19
@@ -62,36 +62,38 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mbeattie/.gr
 		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
 		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:9:9-41
+	android:testOnly
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:11:9-33
 	tools:ignore
-		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:12:9-48
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:13:9-48
 	android:icon
 		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:8:9-43
 	android:allowBackup
 		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:12:9-40
 activity#com.example.adam.allinthefamily.MainActivity
-ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:14:9-21:20
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:15:9-22:20
 	android:screenOrientation
-		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:16:13-49
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:17:13-49
 	android:name
-		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:15:13-41
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:16:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:17:13-20:29
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:18:13-21:29
 action#android.intent.action.MAIN
-ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:18:17-69
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:20:27-74
 activity#com.example.adam.allinthefamily.GameActivity
-ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:23:9-25:52
+ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:24:9-26:52
 	android:screenOrientation
-		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:25:13-49
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:26:13-49
 	android:name
-		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:24:13-41
+		ADDED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml:25:13-41
 uses-sdk
 INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mbeattie/Documents/Development/all_in_the_family/app/src/main/AndroidManifest.xml
