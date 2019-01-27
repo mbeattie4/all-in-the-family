@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jan 27 11:16:25 PST 2019
+0.baseType=DIRECTORY
+0.base=/Users/mbeattie/Documents/Development/all_in_the_family/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1
