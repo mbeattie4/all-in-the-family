@@ -3,9 +3,16 @@
 .gradle/
 /.gradle
 /.gradle/
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
 /local.properties
-/.idea/workspace.xml
+/.idea
+/.idea/
+.idea
+.idea/
 .idea/workspace.xml
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/libraries/
 /.idea/libraries
 /.idea/libraries/
 .idea/libraries
