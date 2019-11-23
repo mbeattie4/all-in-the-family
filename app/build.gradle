@@ -1,6 +1,6 @@
 apply plugin: 'com.android.application'
-apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
 
 repositories {
     mavenCentral()
@@ -16,18 +16,19 @@ android {
         versionCode 1
         versionName "1.0"
     }
+    signingConfigs {
+        release {
+            storeFile file('/Users/matthewbeattie/keystores/allinthefamily.jks')
+            storePassword = 'yamaha4G'
+            keyAlias = 'AllInTheFamily'
+            keyPassword = 'yamaha4G'
+        }
+    }
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
-    }
-    signingConfigs {
-        release {
-            storeFile file('/Users/mbeattie/user/keystores/upload-keystore.jks')
-            storePassword System.getenv('yamaha4G')
-            keyAlias = 'upload'
-            keyPassword System.getenv('yamaha4G4ever')
+            signingConfig signingConfigs.release
         }
     }
 }
