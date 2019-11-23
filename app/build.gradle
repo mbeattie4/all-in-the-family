@@ -25,9 +25,9 @@ android {
     signingConfigs {
         release {
             storeFile file('/Users/mbeattie/user/keystores/upload-keystore.jks')
-            storePassword System.getenv('ahxf?ght4G')
+            storePassword System.getenv('yamaha4G')
             keyAlias = 'upload'
-            keyPassword System.getenv('ahxf?ght4G4ever')
+            keyPassword System.getenv('yamaha4G4ever')
         }
     }
 }
