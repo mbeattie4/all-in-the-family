@@ -1,4 +1,0 @@
-#Sat Jan 26 21:33:13 PST 2019
-base.0=/Users/mbeattie/Documents/Development/all_in_the_family/app/build/intermediates/dex/debug/mergeDexDebug/out
-path.0=classes.dex
-renamed.0=classes.dex

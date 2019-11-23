@@ -1,4 +1,0 @@
-#Sun Jan 27 11:16:25 PST 2019
-base.0=/Users/mbeattie/Documents/Development/all_in_the_family/app/build/intermediates/dex/release/mergeDexRelease/out
-path.0=classes.dex
-renamed.0=classes.dex
